@@ -419,9 +419,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c526c82b1d7226641b7fe5d419c1f9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timer: 0
-  minSpawnDelay: 4
-  maxSpawnDelay: 8
+  timer: 20
+  minSpawnDelay: 20
+  maxSpawnDelay: 65
   carsToSpawn:
   - {fileID: 63898755863666277, guid: e6ad6620c5cd95240af7981f86a26844, type: 3}
   - {fileID: 1439688986744210581, guid: 507ad84590e61b04fa6260ebbe8cd53b, type: 3}
@@ -703,9 +703,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c526c82b1d7226641b7fe5d419c1f9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timer: 0
-  minSpawnDelay: 4
-  maxSpawnDelay: 8
+  timer: 20
+  minSpawnDelay: 20
+  maxSpawnDelay: 65
   carsToSpawn:
   - {fileID: 63898755863666277, guid: e6ad6620c5cd95240af7981f86a26844, type: 3}
   - {fileID: 1439688986744210581, guid: 507ad84590e61b04fa6260ebbe8cd53b, type: 3}
@@ -2392,9 +2392,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c526c82b1d7226641b7fe5d419c1f9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timer: 0
-  minSpawnDelay: 4
-  maxSpawnDelay: 8
+  timer: 20
+  minSpawnDelay: 20
+  maxSpawnDelay: 65
   carsToSpawn:
   - {fileID: 63898755863666277, guid: e6ad6620c5cd95240af7981f86a26844, type: 3}
   - {fileID: 1439688986744210581, guid: 507ad84590e61b04fa6260ebbe8cd53b, type: 3}
@@ -2745,7 +2745,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1560279617
 Transform:
   m_ObjectHideFlags: 0
@@ -3047,9 +3047,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c526c82b1d7226641b7fe5d419c1f9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timer: 0
-  minSpawnDelay: 4
-  maxSpawnDelay: 8
+  timer: 20
+  minSpawnDelay: 20
+  maxSpawnDelay: 65
   carsToSpawn:
   - {fileID: 63898755863666277, guid: e6ad6620c5cd95240af7981f86a26844, type: 3}
   - {fileID: 1439688986744210581, guid: 507ad84590e61b04fa6260ebbe8cd53b, type: 3}
@@ -3191,9 +3191,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c526c82b1d7226641b7fe5d419c1f9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timer: 0
-  minSpawnDelay: 4
-  maxSpawnDelay: 8
+  timer: 20
+  minSpawnDelay: 20
+  maxSpawnDelay: 65
   carsToSpawn:
   - {fileID: 63898755863666277, guid: e6ad6620c5cd95240af7981f86a26844, type: 3}
   - {fileID: 1439688986744210581, guid: 507ad84590e61b04fa6260ebbe8cd53b, type: 3}
